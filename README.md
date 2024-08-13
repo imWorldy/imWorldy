@@ -7,13 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imworldy" target="blank"><img src="https://img.shields.io/twitter/follow/imworldy?logo=twitter&style=for-the-badge" alt="imworldy" /></a> </p>
 
-- 🔭 I’m currently working on [Landania.net Bot with GUI](https://github.com/imWorldy/Landania.net-Bot-with-GUI)
-
-- 👯 I’m looking to collaborate on [ld-botTools](https://github.com/Spieler2022/ld-botTools)
-
-- 🤝 I’m looking for help with [Python mineflayer etc...](https://github.com/PrismarineJS/mineflayer)
-
-- 💬 Ask me about **Python**
+- 🔭 I’m currently working on some Python Projects...
 
 - 📫 How to reach me **Discord: imworldy**
 
